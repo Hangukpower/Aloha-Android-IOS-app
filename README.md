@@ -8,7 +8,7 @@ Aloha is a mental health app that offers a range of features to support users in
 
 # Revenue Streams
 ## Monthly Subscription Models
-Aloha will offer monthly subscription models to users. The basic plan will offer access to the personalized recommendations and daily CBT exercises, while the premium plan will include access to licensed therapists and psychiatrists for telehealth appointments. The pricing for these plans will be $9.99/month for the basic plan and $39.99/month for the premium plan. 
+Aloha will offer monthly subscription models to users. The basic plan will offer access to personalized recommendations and daily CBT exercises, while the premium plan will include access to licensed therapists and psychiatrists for telehealth appointments. The pricing for these plans will be $9.99/month for the basic plan and $39.99/month for the premium plan. 
 
 ## Partnerships with Healthcare Providers or Insurance Providers
 Aloha will also partner with healthcare providers and insurance providers to offer the app as a covered benefit to their members. This will allow Aloha to expand its user base and generate revenue through partnerships with these organizations. 
@@ -22,5 +22,8 @@ Aloha will primarily rely on digital marketing strategies to promote the app. Th
 ## Financials
 Aloha expects to generate $3 million in revenue in its first year of operation. This will primarily come from subscription fees and partnerships with healthcare providers and insurance providers. The company expects to achieve profitability by the end of its second year of operation. Team: Aloha's founding team includes experienced entrepreneurs and mental health professionals. The team has a combined 30 years of experience in mental health and digital product development. The company will also hire licensed therapists and psychiatrists to offer telehealth appointments through the app. 
 
+## Fundraising
+Aloha aims to raise $10 million in Series A funding, $15 million in Series B funding, and an angel investor who will take an equitable stake in the company to streamline the marketing and distribution of the application.
+
 ## Conclusion
-Aloha is a much-needed solution in the mental health space, and its personalized recommendations, telehealth appointments, and daily CBT exercises and meditation reminders will provide valuable support to users. The app's multiple revenue streams and partnerships with healthcare providers and corporations make it a promising business opportunity. Aloha's experienced team is well-equipped to make the app a success, and the company expects to achieve profitability within two years of operation.
+Aloha is a much-needed solution in the mental health space, and its personalized recommendations, telehealth appointments, daily CBT exercises, and meditation reminders will provide valuable support to users. The app's multiple revenue streams and partnerships with healthcare providers and corporations make it a promising business opportunity. Aloha's experienced team is well-equipped to make the app a success, and the company expects to achieve profitability within two years of operation.
